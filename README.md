@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Fernand Gatera ✦
+# Fernand Gatera
 
 **`Data Analyst in Training`**
 
