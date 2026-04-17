@@ -8,7 +8,7 @@
 *Passionate about the intersection of data, fashion, and culture —*  
 *from market analysis to ML pipelines, I learn by doing.*
 
-📍 Brussels
+📍 Belgium
 
 </div>
 
