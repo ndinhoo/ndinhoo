@@ -5,13 +5,9 @@
 
 <div align="center">
 
-```
-フェルナン ・ データ & AI
-```
+# Fernand Gatera ✦
 
-# Fernand ✦
-
-**`Data Analyst in Training · Fashion & AI Enthusiast`**
+**`Data Analyst in Training`**
 
 *Je construis des modèles qui font parler les données.*
 *Passionné par l'intersection entre data, mode et culture —*
@@ -25,7 +21,7 @@
 
 <div align="center">
 
-👘 **Vêtements** &nbsp;·&nbsp; ⛩ **Anime** &nbsp;·&nbsp; 🎵 **Musique** &nbsp;·&nbsp; ✈️ **Voyage** &nbsp;·&nbsp; 🤖 **ML / AI**
+👘 **Clothes** &nbsp;·&nbsp; ⛩ **Anime** &nbsp;·&nbsp; 🎵 **Musique** &nbsp;·&nbsp; ✈️ **Travel** &nbsp;·&nbsp; 🤖 **ML / AI**
 
 </div>
 
@@ -37,7 +33,6 @@
 |--------|-------------|-------|
 | 🏠 [**ImmoEliza API**](#) | Prédiction de prix immobiliers — pipeline ML complet déployé en REST API | `Python` `FastAPI` `XGBoost` |
 | 🍷 [**Wiwinio SQL Analysis**](#) | Analyse de marché sur une base Vivino — JOINs avancés, agrégations, rapport avec visualisations | `SQL` `SQLite` |
-| 🐾 [**Open Claw**](#) | Outil IA d'évaluation d'adoption pour refuges — meta-prompt dynamique avec commandes inline | `Prompt Engineering` |
 | 👗 [**Fashion Dataset Analysis**](#) | Segmentation clients, analyse de ventes et prédictions sur données mode *(WIP)* | `Python` `Pandas` `Scikit-learn` |
 
 ---
@@ -91,9 +86,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernand-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e8c97a)](https://linkedin.com/in/TON_PSEUDO)
-[![Email](https://img.shields.io/badge/Email-fernand@mail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=e8c97a)](mailto:fernand@mail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0d0d0f?style=for-the-badge&logo=vercel&logoColor=6b6a65)](https://github.com/TON_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernand-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e8c97a)](https://www.linkedin.com/in/fernand-gatera-a5a693128/)
+[![Email](https://img.shields.io/badge/Email-fernand@mail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=e8c97a)](mailto:gaterafernand@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0d0d0f?style=for-the-badge&logo=vercel&logoColor=6b6a65)](https://github.com/ndinhoo)
 
 </div>
 
@@ -101,9 +96,6 @@
 
 <div align="center">
 
-```
-データで世界を理解する
-```
 *"Comprendre le monde par les données"*
 
 </div>
