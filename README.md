@@ -16,7 +16,7 @@
 
 <div align="center">
 
-👘 **Clothes** &nbsp;·&nbsp; ⛩ **Anime** &nbsp;·&nbsp; 🎵 **Music** &nbsp;·&nbsp; ✈️ **Travel** &nbsp;·&nbsp; 🤖 **ML / AI**
+👕 **Clothes** &nbsp;·&nbsp; ⛩ **Anime** &nbsp;·&nbsp; 🎵 **Music** &nbsp;·&nbsp; ✈️ **Travel** &nbsp;·&nbsp; 🤖 **ML / AI**
 
 </div>
 
