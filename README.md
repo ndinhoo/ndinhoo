@@ -1,83 +1,89 @@
-<div align="center">
+<h1>Fernand Gatera 👋</h1>
+<p><strong>🚀 Aspiring Data Analyst | 🤖 AI & Data Bootcamp @ BeCode</strong></p>
 
-# Fernand Gatera
+<p>
+Turning data into insights — with a touch of creativity inspired by fashion, travel, and culture.
+</p>
 
-**`Aspiring Data Analyst · AI & Data Bootcamp @ BeCode`**
+<p>
+I’m building data projects that combine <strong>analysis, machine learning, and real-world applications</strong>, 
+with a growing focus on fashion and trend forecasting. My goal is simple: create solutions that are both 
+<strong>useful and meaningful</strong>.
+</p>
 
+<hr>
 
-📍 Belgium
+<h2>🚀 Current Projects</h2>
 
-</div>
+<ul>
+  <li>
+    <strong>🧠 ImmoEliza API</strong><br>
+    Real estate price prediction — end-to-end ML pipeline deployed as a REST API
+  </li>
+  <br>
+  <li>
+    <strong>🍷 Wiwinio SQL Analysis</strong><br>
+    Market analysis on a Vivino dataset — advanced queries, reporting & visualizations
+  </li>
+  <br>
+  <li>
+    <strong>👗 Fashion Dataset Analysis (WIP)</strong><br>
+    Customer segmentation, sales analysis, and trend prediction in fashion
+  </li>
+</ul>
 
----
+<hr>
 
-<div align="center">
+<h2>🛠 Tech Stack</h2>
 
-👕 **Clothes** &nbsp;·&nbsp; ⛩ **Anime** &nbsp;·&nbsp; 🎵 **Music** &nbsp;·&nbsp; ✈️ **Travel** &nbsp;·&nbsp;
+<p><strong>Languages</strong><br>
+Python · SQL · Bash
+</p>
 
-</div>
+<p><strong>Data / ML</strong><br>
+Pandas · Scikit-learn · XGBoost · Matplotlib
+</p>
 
----
+<p><strong>Tools</strong><br>
+FastAPI · SQLite · Git · VS Code
+</p>
 
-## 🗂 Projects
+<hr>
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏠 [**ImmoEliza API**](#) | Real estate price prediction — end-to-end ML pipeline deployed as a REST API | `Python` `FastAPI` `XGBoost` |
-| 🍷 [**Wiwinio SQL Analysis**](#) | Market analysis on a Vivino dataset — advanced JOINs, aggregations, reporting with visualizations | `SQL` `SQLite` |
-| 👗 [**Fashion Dataset Analysis**](#) | Customer segmentation, sales analysis, and prediction on fashion data *(WIP)* | `Python` `Pandas` `Scikit-learn` |
+<h2>🌱 What I'm Doing</h2>
 
----
+<ul>
+  <li>Building strong foundations in <strong>data analysis & machine learning</strong></li>
+  <li>Exploring how <strong>data meets fashion</strong> — trends, behavior, pricing</li>
+  <li>Continuously improving through projects and real-world datasets</li>
+</ul>
 
-## 🛠 Stack
+<hr>
 
-**Languages**
+<h2>🌍 Beyond Data</h2>
 
-![Python](https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=e8c97a)
-![SQL](https://img.shields.io/badge/SQL-0d0d0f?style=flat-square&logo=postgresql&logoColor=e8c97a)
-![Bash](https://img.shields.io/badge/Bash-0d0d0f?style=flat-square&logo=gnubash&logoColor=e8c97a)
+<p>👕 Fashion · ⛩ Anime · 🎵 Music · ✈️ Travel</p>
 
-**ML / Data**
+<ul>
+  <li>Scrolling Pinterest for outfit inspo between coding sessions</li>
+  <li>Always looking for new perspectives through travel and culture</li>
+</ul>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0f?style=flat-square&logo=python&logoColor=a78bfa)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d0d0f?style=flat-square&logo=scikitlearn&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0f?style=flat-square&logo=pandas&logoColor=a78bfa)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0f?style=flat-square&logo=python&logoColor=a78bfa)
+<hr>
 
-**Tools**
+<h2>💬 Mindset</h2>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0f?style=flat-square&logo=fastapi&logoColor=f472b6)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d0f?style=flat-square&logo=sqlite&logoColor=f472b6)
-![Git](https://img.shields.io/badge/Git-0d0d0f?style=flat-square&logo=git&logoColor=f472b6)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0f?style=flat-square&logo=visualstudiocode&logoColor=f472b6)
+<ul>
+  <li><em>Money doesn’t make the outfit—style does.</em></li>
+  <li><em>Growing through new challenges, places, and perspectives.</em></li>
+  <li><em>The playlist changes depending on the dataset</em></li>
+</ul>
 
----
+<hr>
 
-## ⚡ Currently
+<h2>📫 Connect</h2>
 
-- → Deepening my knowledge in **machine learning** applied to fashion — segmentation, trend forecasting, pricing   
-- → Scrolling Pinterest for **outfit inspo** between coding sessions.
-- → Next destination: somewhere in **Europe** or **Asia**
-
----
-
-## 💬 Random Thoughts
-
-> Style isn’t bought, it’s built.
-
-> The playlist changes depending on the dataset  
-
-> DBZ is the greatest anime of all time
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernand-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e8c97a)](https://www.linkedin.com/in/fernand-gatera-a11613345/)
-[![Email](https://img.shields.io/badge/MAIL.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=e8c97a)](mailto:gaterafernand@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0d0d0f?style=for-the-badge&logo=vercel&logoColor=6b6a65)](https://github.com/ndinhoo)
-
-</div>
-
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fernand-gatera-a11613345/">Fernand Gatera</a></li>
+  <li><strong>Email:</strong> <a href="mailto:gaterafernand@gmail.com">gaterafernand@gmail.com</a></li>
+</ul>
