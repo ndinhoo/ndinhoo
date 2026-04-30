@@ -55,10 +55,9 @@
 
 ## ⚡ Currently
 
-- → Deepening my knowledge in **machine learning** applied to fashion — segmentation, trend forecasting, pricing  
-- → Exploring **agentic workflows** and how LLMs can automate analytical tasks  
-- → Watching **Vinland Saga** between notebooks  
-- → Next destination: somewhere in **Southeast Asia**
+- → Deepening my knowledge in **machine learning** applied to fashion — segmentation, trend forecasting, pricing   
+- → Scrolling Pinterest for **outfit inspo** between coding sessions.
+- → Next destination: somewhere in **Europe** or **Asia**
 
 ---
 
