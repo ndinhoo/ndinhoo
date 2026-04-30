@@ -36,16 +36,30 @@ with a growing focus on fashion and trend forecasting. My goal is simple: create
 
 <h2>🛠 Tech Stack</h2>
 
-<p><strong>Languages</strong><br>
-Python · SQL · Bash
+<p><strong>Languages</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=e8c97a" />
+<img src="https://img.shields.io/badge/SQL-0d0d0f?style=flat-square&logo=postgresql&logoColor=e8c97a" />
+<img src="https://img.shields.io/badge/Bash-0d0d0f?style=flat-square&logo=gnubash&logoColor=e8c97a" />
 </p>
 
-<p><strong>Data / ML</strong><br>
-Pandas · Scikit-learn · XGBoost · Matplotlib
+<p><strong>Data / ML</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-0d0d0f?style=flat-square&logo=pandas&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Scikit--learn-0d0d0f?style=flat-square&logo=scikitlearn&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/XGBoost-0d0d0f?style=flat-square&logo=python&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Matplotlib-0d0d0f?style=flat-square&logo=python&logoColor=a78bfa" />
 </p>
 
-<p><strong>Tools</strong><br>
-FastAPI · SQLite · Git · VS Code
+<p><strong>Tools</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-0d0d0f?style=flat-square&logo=fastapi&logoColor=f472b6" />
+<img src="https://img.shields.io/badge/SQL-0d0d0f?style=flat-square&logo=postgresql&logoColor=e8c97a" />
+<img src="https://img.shields.io/badge/Git-0d0d0f?style=flat-square&logo=git&logoColor=f472b6" />
+<img src="https://img.shields.io/badge/VS_Code-0d0d0f?style=flat-square&logo=visualstudiocode&logoColor=f472b6" />
 </p>
 
 <hr>
