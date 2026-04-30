@@ -2,11 +2,8 @@
 
 # Fernand Gatera
 
-**`Data Analyst in Training`**
+**`Aspiring Data Analyst · AI & Data Bootcamp @ BeCode`**
 
-*I build models that make data speak.*  
-*Passionate about the intersection of data, fashion, and culture —*  
-*from market analysis to ML pipelines, I learn by doing.*
 
 📍 Belgium
 
