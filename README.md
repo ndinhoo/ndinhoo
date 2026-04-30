@@ -63,13 +63,11 @@
 
 ## 💬 Random Thoughts
 
-> Thrift shop > fast fashion *(but honestly, both)*  
+> Style isn’t bought, it’s built.
 
 > The playlist changes depending on the dataset  
 
-> The best ideas come while traveling, not sitting at a desk  
-
-> My anime ranking > your anime ranking  
+> DBZ is the greatest anime of all time
 
 ---
 
@@ -77,16 +75,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernand-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e8c97a)](https://www.linkedin.com/in/fernand-gatera-a5a693128/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernand-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=e8c97a)](https://www.linkedin.com/in/fernand-gatera-a11613345/)
 [![Email](https://img.shields.io/badge/MAIL.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=e8c97a)](mailto:gaterafernand@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-0d0d0f?style=for-the-badge&logo=vercel&logoColor=6b6a65)](https://github.com/ndinhoo)
 
 </div>
 
----
-
-<div align="center">
-
-*"Understanding the world through data"*
-
-</div>
