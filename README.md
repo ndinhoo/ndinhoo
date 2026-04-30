@@ -13,7 +13,7 @@ with a growing focus on fashion and trend forecasting. My goal is simple: create
 
 <hr>
 
-<h2>🚀 Current Projects</h2>
+<h2>Projects</h2>
 
 <ul>
   <li>
