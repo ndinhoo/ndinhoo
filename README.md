@@ -1,4 +1,4 @@
-<h1>Fernand Gatera</h1>
+<h1>Fernand Gatera 👋</h1>
 <p><strong>Data Analyst | AI & Data Bootcamp @ BeCode Brussels</strong></p>
 <p>
 Career changer who trained in data after a background in retail and hospitality. I like digging into numbers to find what matters: market trends, customer behaviour, business signals. Currently looking for a data analyst internship starting September 2026.
@@ -6,7 +6,7 @@ Career changer who trained in data after a background in retail and hospitality.
 
 <hr>
 
-<h2>Projects</h2>
+<h2>📊 Projects</h2>
 
 <p>
   <strong>Market Watcher Agent</strong><br>
@@ -29,13 +29,13 @@ Career changer who trained in data after a background in retail and hospitality.
 </p>
 
 <p>
-  <strong><a href="https://github.com/ndinhoo/ASOS-Product-Catalogue-Analysis">ASOS Product Catalogue Analysis</a></strong><br>
+  <strong><a href="https://github.com/ndinhoo/ASOS-Product-Catalogue-Analysis">ASOS Fashion EDA</a></strong><br>
   Exploratory analysis of ~30,800 fashion product listings: brand concentration, pricing strategy, stock management, and colour/size trends.
 </p>
 
 <hr>
 
-<h2>Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 <p><strong>Languages</strong></p>
 <p>
 <img src="https://img.shields.io/badge/Python-0d0d0f?style=flat-square&logo=python&logoColor=e8c97a" />
@@ -65,12 +65,12 @@ Career changer who trained in data after a background in retail and hospitality.
 
 <hr>
 
-<h2>Beyond Data</h2>
+<h2>🌍 Beyond Data</h2>
 <p>Fashion, anime, music, travel. The playlist changes depending on the dataset.</p>
 
 <hr>
 
-<h2>Connect</h2>
+<h2>📫 Connect</h2>
 <p>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fernand-gatera-a11613345/">Fernand Gatera</a>
   &nbsp;&middot;&nbsp;
