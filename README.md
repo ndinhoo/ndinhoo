@@ -14,12 +14,12 @@ Career changer who trained in data after a background in retail and hospitality.
 </p>
 
 <p>
-  <strong>ImmoEliza - Property Price Estimator</strong><br>
+  <strong><a href="https://github.com/ndinhoo/immo-eliza">ImmoEliza - Property Price Estimator</a></strong><br>
   Scraped 23,000+ Belgian property listings, trained and compared 5 regression models. CatBoost selected (R2: 0.786). Deployed as a REST API with FastAPI and Docker on Render.
 </p>
 
 <p>
-  <strong>ArcelorMittal - Global Steel Market Analysis</strong><br>
+  <strong><a href="https://github.com/ndinhoo/steel_market">ArcelorMittal - Global Steel Market Analysis</a></strong><br>
   Market concentration analysis across steel-exporting countries. HHI doubled between 2022 and 2025, China at 26% export share. Interactive Power BI dashboard with DAX measures, KPI cards and demand segmentation.
 </p>
 
@@ -29,7 +29,7 @@ Career changer who trained in data after a background in retail and hospitality.
 </p>
 
 <p>
-  <strong>ASOS Fashion EDA</strong><br>
+  <strong><a href="https://github.com/ndinhoo/ASOS-Product-Catalogue-Analysis">ASOS Product Catalogue Analysis</a></strong><br>
   Exploratory analysis of ~30,800 fashion product listings: brand concentration, pricing strategy, stock management, and colour/size trends.
 </p>
 
